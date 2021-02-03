@@ -67,7 +67,7 @@ print(doubleValue2(input: 4)!)
 
 
 // Extension
-// 구조체 , 클래스, 열거형, 프로토콜 타입에 새로운 기능을 추가할 수 있다.
+// 구조체 , 클래스, 열거형, 프로토콜 타입에 새로운 기능을 추가할 수 있다. 깃헙 테스트중
 
 // Int에 extension을 적용하여 property 추가
 
